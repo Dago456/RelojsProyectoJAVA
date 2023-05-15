@@ -1,0 +1,30 @@
+# Ventas de Relojs
+Atraves de este programa se podra llevar la conatabilidad del valor total de ventas a un grupo de personas.
+
+## Requisitos
+- Java Development Kit (JDK) 8 o superior.
+- Un IDE o editor de texto para Java, como Eclipse, IntelliJ IDEA o Visual Studio Code.
+- Consola o terminal para ejecutar el programa.
+
+### Instrucciones
+    1. se debera clonar o descargar el repositorio del programa.
+    2. Abrira el proyecto en el IDE o editor de su preferencia.
+    3. Copilara el archivo ClienteRelojs.java.
+    4. Ingresar la cantidad de clientes.
+    5.Ingresara la identificacion nombre y valor de los relojes seleccionados.
+    6. El programa mostrará el valor total de todos los clientes.
+
+## Cómo funciona
+El programa utiliza programación orientada a objetos para guiar las ventas y calcular un total.
+
+La clase Total representa el valor final de todos los clientes.
+
+## Limitaciones
+
+- El programa está diseñado para registrar ventas de hasta 3 relojes para cada cliente con un maximo de 50.
+- No se realizan validaciones de los datos ingresados por el usuario.
+- El programa no guarda las ventas registradas en una base de datos o archivo.
+
+## Contribuciones
+
+las contribuciones al programa nos ayudaran a mejorar estos pueden ser atraves de request o issues.
