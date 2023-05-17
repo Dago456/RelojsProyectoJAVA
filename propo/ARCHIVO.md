@@ -8,10 +8,11 @@ Aclaraciones:
 
 # Analisis del ejercicio
 <u> Plantilla historia usuario </u>
-![Hi promedio](/img/Hi.jpeg)
+![Hi promedio](/img/HI.jpeg)
 
 
 <u>Aproximcion caso de uso</u>
+
 ![di promedio](img/dodo.png)
 Nombre: calcular total de un aventa de relojes
 Actores: vendedore de una relojeria
